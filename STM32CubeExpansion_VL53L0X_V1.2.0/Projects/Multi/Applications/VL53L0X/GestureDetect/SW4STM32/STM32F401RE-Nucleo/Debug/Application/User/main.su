@@ -1,0 +1,11 @@
+main.c:183:6:VL53L0A1_EXTI_Callback	16	static
+main.c:215:6:MX_TIM5_Init	48	static
+main.c:240:6:TimeStamp_Init	8	static
+main.c:244:6:TimeStamp_Reset	8	static
+main.c:249:10:TimeStamp_Get	4	static
+main.c:259:6:DetectSensors	24	static
+main.c:338:6:SetupSingleShot	24	static
+main.c:389:6:Sensor_SetNewRange	16	static
+main.c:420:5:main	48	static
+main.c:699:6:SystemClock_Config	88	static
+main.c:826:6:MX_GPIO_Init	24	static
